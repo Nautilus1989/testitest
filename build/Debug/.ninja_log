@@ -24,3 +24,5 @@
 196	385	7416070859464528	CMakeFiles/testitest.dir/Core/Src/syscalls.c.obj	f824da43ae4c1077
 38	456	7416070860166567	CMakeFiles/testitest.dir/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c.c.obj	6f6fe6602702fba0
 456	801	7416070863588235	testitest.elf	7ef1a0da572f160b
+2	132	7416111091019083	CMakeFiles/testitest.dir/Core/Src/main.c.obj	eadad5542330b492
+133	773	7416111097379195	testitest.elf	7ef1a0da572f160b
